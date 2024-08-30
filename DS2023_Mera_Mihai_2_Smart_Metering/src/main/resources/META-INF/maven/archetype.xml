@@ -1,0 +1,9 @@
+<archetype>
+  <id>DS2023_Mera_Mihai_2_Smart_Metering</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
